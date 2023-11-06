@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>about</title>
+</head>
+
+
+<style>
+body {
+background-image: url(ytyt.gif);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+</style>
+
+<font color=beige>
+</font>
+<hr size=6 color=#997300><br>
+
+<br>
+<br>
+<br>
+<br>
+
+<h1 align=center> <font color=#997300 size=7> ABOUT </font> </h1>
+<br>
+<center>
+<table border=1 cellpadding="15" bgcolor=#e6ac00 width=80%>
+<th><a href="ABOUT%20TAYLOR%20SWIFT.html">ABOUT TAYLOR SWIFT</a></th>
+<th><a href="secondpage.html">BLACKPINK SHOP</a></th>
+<th><a href="Third%20Web%20page.html">FACTORS THAT CAN RUIN KPOP IDOLS</a></th>
+<th><a href="fourth%20page.html">HEALTHY LIFESTYLE</a></th>
+
+</table>
+</center>
+<br>
+<hr size=6 color=#997300><br>
+
+
+
+
+
+
+<br>
+<hr width=1300 size=6 color=#997300><br>
+
+<p>
+<center><table border=1 bgcolor=#ffe680 width=10%>
+<tr>
+<td><a href="Shoppe Sanctuary.html"><center>BACK TO TOP</center></a></td></table></tr></center>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
